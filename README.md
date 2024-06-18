@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Sivaram Challa</h1>
-<h3 align="center">A passionate Full Stack and DevOps developer from India</h3>
+<h3 align="center">A passionate Full Stack developer and Machine Learning Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knight6767704&label=Profile%20views&color=0e75b6&style=flat" alt="knight6767704" /> </p>
 
